@@ -5,10 +5,12 @@
 This is basically my first webpage after learning html just practicing nothing much.
 ## Setup/Installation Requirements:
 1.Click the fork button on top right corner of the repository
+
 2.Click the clone or download button to clone my work on a personal PC
 
 ## Known Bugs
 No known bugs.
+
 Incase of any bug feel free to contact me via my contacts below
 
 ## Contacts
@@ -17,7 +19,7 @@ Feel free to reach out to me
 
 Phone number :+254799332404
 ## Technologies Used
-Just HTML5
+###Just HTML5
 
 ### License
 IT Licence
