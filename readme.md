@@ -19,7 +19,7 @@ Feel free to reach out to me
 
 Phone number :+254799332404
 ## Technologies Used
-###Just HTML5
+### Just HTML5
 
 ### License
 IT Licence
